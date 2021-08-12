@@ -1,0 +1,38 @@
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\bin\Debug\netcoreapp3.1\SignalR Challenge.exe
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\bin\Debug\netcoreapp3.1\SignalR Challenge.deps.json
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\bin\Debug\netcoreapp3.1\SignalR Challenge.runtimeconfig.json
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\bin\Debug\netcoreapp3.1\SignalR Challenge.runtimeconfig.dev.json
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\bin\Debug\netcoreapp3.1\SignalR Challenge.dll
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\bin\Debug\netcoreapp3.1\SignalR Challenge.pdb
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\bin\Debug\netcoreapp3.1\SignalR Challenge.Views.dll
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\bin\Debug\netcoreapp3.1\SignalR Challenge.Views.pdb
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.csprojAssemblyReference.cache
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.AssemblyInfoInputs.cache
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.AssemblyInfo.cs
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.RazorAssemblyInfo.cache
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.RazorAssemblyInfo.cs
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\staticwebassets\SignalR Challenge.StaticWebAssets.Manifest.cache
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\staticwebassets\SignalR Challenge.StaticWebAssets.xml
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\scopedcss\bundle\SignalR Challenge.styles.css
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.TagHelpers.input.cache
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.TagHelpers.output.cache
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.RazorCoreGenerate.cache
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.RazorTargetAssemblyInfo.cache
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.RazorTargetAssemblyInfo.cs
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.Views.pdb
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.dll
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.pdb
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.genruntimeconfig.cache
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\SignalR Challenge.csproj.CopyComplete
+C:\Users\Lusan\Desktop\SOLVEX Workshop\Challenge 2 SignalR\SignalR Challenge\SignalR Challenge\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs

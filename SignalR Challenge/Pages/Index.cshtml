@@ -1,0 +1,34 @@
+﻿@page
+<div class="container">
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="text-center">To do SignalR Challenge Solvex</h1>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="container">
+                    <label>Add things to do:</label>
+                    <br />
+                    <input style="width: 380px;" class="form-control" placeholder="Things to do..." type="text" id="todoInput" />
+                    <br />
+                    <input type="button" class="btn btn-success" id="sendButton" value="Add" />
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="container">
+                    <h4>List of things to do:</h4>
+                    <ul id="listTodo"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">&nbsp;</div>
+</div>
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/todoList.js"></script>
